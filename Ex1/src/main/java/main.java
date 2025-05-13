@@ -4,7 +4,7 @@ public class main {
         NoGenericMethods n2 =new NoGenericMethods("Bob","Alice","Charlie");
         NoGenericMethods n3 =new NoGenericMethods("Alice","Charlie","Bob");
 
-        // Mostrar los valores almacenados para comprobar el orden
+
         System.out.println("First example: ");
         System.out.println(n1.getO1());
         System.out.println(n1.getO2());
